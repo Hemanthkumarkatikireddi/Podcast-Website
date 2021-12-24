@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.podcast-home-page{
+    width: 380px;
+    height: 640px;
+    border-right: solid 5px black;
+    background-color: white;
+    margin-left: 300px;
+}
+.podcast-home-page .img{
+    background-image: url("podcasts-bg.png");
+    background-size: cover;
+    width: 375px;
+    height: 200px;
+}
+.podcast-home-page h4{
+    font-size: 32px;
+    color: rgba(236, 232, 232, 0.89);
+    padding:20px;
+}
+
+.podcast-members-list{
+    margin:20px 10px ;
+}
+.podcast-members img{
+    margin:0px 10px;
+    width: 150px;
+    height: 120px; 
+}
+.podcast-members{
+    width: 190px;
+    height: 140px;
+} 
+.podcast-person-name{
+    padding:0px 10px;
+    text-align: center;
+    font-size: 11px;
+    color: gray;  
+    margin: 0px;
+}
+.podcast-person-name h6{
+    color:#151765;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px 0px;
+}
